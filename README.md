@@ -4,8 +4,8 @@
 
 ###### Étapes à suivre:
 
-* Faite un git clone: `https://github.com/Alexisreau97/The-Hacking-Class`
-* Faite un `bundle install`
+* Faites un git clone: `https://github.com/louismn/The-Hacking-Class`
+* Faites un `bundle install`
 * Et c'est partie pour la correction !
 
 # TEAM
