@@ -12,8 +12,8 @@
 
 | Nom    |Prenom    |
 | ------ |:--------:|
-| REAU   | Alexis   |
-| PINTO  | Florian  |
+|Martin du Nord   |Louis   |
+| De la Tour  | Priscille  |
 
 # EXPLICATION
 
